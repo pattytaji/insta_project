@@ -1,0 +1,17 @@
+.left { position:fixed;width: 30% }
+	.right { float:right;width: 70%; 
+        background-color: rgb(242, 242, 246);
+        padding-left: 10%;
+       
+        
+    }
+
+    .color {
+        border: solid 1px; width: 490px;
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        
+
+    }
